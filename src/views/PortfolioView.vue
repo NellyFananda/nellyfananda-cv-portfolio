@@ -10,8 +10,8 @@ export default {
           imageUrl: 'portfoliowebsite',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/NellyFananda/Personal-Website',
-          demo: 'https://nellyfananda.netlify.app/'
+          github: 'https://github.com/NellyFananda/nellyfananda.github.io',
+          demo: 'https://nellyfananda-cv.vercel.app/'
         },
         {
           id: 2,
